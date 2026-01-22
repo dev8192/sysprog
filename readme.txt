@@ -1,0 +1,1 @@
+sysprog is a set of exercises for teaching students low-level and system related concepts. We dive into the world of operating systems, file systems, virtual machines, containerization, processor architectures, memory management and other such topics. We follow a long-standing tradition and use the C programming language for this course.
